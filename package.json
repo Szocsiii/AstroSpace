@@ -1,0 +1,21 @@
+{
+  "name": "astronomy-website",
+  "version": "1.0.0",
+  "description": "A website dedicated to astronomy with animations and images about space.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "astronomy",
+    "space",
+    "animations",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
