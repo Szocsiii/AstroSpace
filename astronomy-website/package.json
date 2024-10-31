@@ -1,7 +1,7 @@
 {
   "name": "astronomy-website",
   "version": "1.0.0",
-  "description": "A website dedicated to astronomy with animations and images about space.",
+  "description": "A website designed to provide users with an engaging experience exploring the wonders of space through images, animations, and informative content.",
   "main": "src/index.html",
   "scripts": {
     "start": "live-server src",
@@ -10,8 +10,9 @@
   "keywords": [
     "astronomy",
     "space",
-    "animations",
-    "website"
+    "website",
+    "images",
+    "animations"
   ],
   "author": "Your Name",
   "license": "MIT",
